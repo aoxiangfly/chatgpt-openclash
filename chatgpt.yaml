@@ -11,3 +11,7 @@ payload:
  - domain-suffix,events.statsigapi.net
  - domain-suffix,intercomcdn.com
  - domain-suffix,featuregates.org
+ - DOMAIN-SUFFIX,oaistatic.com
+ - DOMAIN-SUFFIX,oaiusercontent.com
+ - DOMAIN,browser-intake-datadoghq.com
+ - DOMAIN-SUFFIX,livekit.cloud
